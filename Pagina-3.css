@@ -3,12 +3,12 @@
 .u-section-1 .u-image-1 {width: 1798px; filter: brightness(0.45); height: 920px; margin: 0 auto 0 -295px}
 .u-section-1 .u-group-1 {width: 460px; min-height: 681px; background-image: none; height: auto; animation-duration: 2000ms; margin: -860px 50px 37px auto}
 .u-section-1 .u-container-layout-1 {padding: 30px 50px}
-.u-section-1 .u-text-1 {font-weight: 700; font-size: 2.25rem; animation-duration: 1000ms; margin: 23px 30px 0 20px}
-.u-section-1 .u-image-2 {width: 180px; height: 235px; filter: brightness(0.9); animation-duration: 1500ms; margin: 19px auto 0}
+.u-section-1 .u-text-1 {font-weight: 700; font-size: 2.25rem; animation-duration: 1000ms; width: 234px; margin: 21px auto 0}
+.u-section-1 .u-image-2 {width: 180px; height: 235px; filter: brightness(0.9); animation-duration: 1500ms; margin: 21px auto 0}
 .u-section-1 .u-text-2 {width: 266px; margin: 19px auto 0}
-.u-section-1 .u-text-3 {margin: 21px auto 0}
+.u-section-1 .u-text-3 {margin: 30px auto 0}
 .u-section-1 .u-text-4 {margin: 0 auto}
-.u-section-1 .u-btn-1 {border-style: solid; font-weight: 700; text-transform: uppercase; letter-spacing: normal; animation-duration: 1000ms; margin: 46px auto 0}
+.u-section-1 .u-btn-1 {border-style: solid; font-weight: 700; text-transform: uppercase; letter-spacing: normal; animation-duration: 1000ms; margin: 37px auto 0}
 .u-section-1 .u-btn-2 {border-style: solid; font-weight: 700; text-transform: uppercase; letter-spacing: normal; font-size: 0.875rem; animation-duration: 1000ms; margin: 17px auto 0; padding: 3px 30px 4px} 
 
 @media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 987px}
@@ -35,7 +35,6 @@
 .u-section-1 .u-sheet-1 {min-height: 634px}
 .u-section-1 .u-image-1 {width: 340px; margin-left: 400px; height: 174px}
 .u-section-1 .u-group-1 {min-height: 386px; margin-top: -958px; margin-right: initial; margin-left: initial; width: auto}
-.u-section-1 .u-text-1 {margin-right: 0; margin-left: 0}
 .u-section-1 .u-image-2 {margin-top: 101px}
 .u-section-1 .u-text-2 {margin-top: -12px; margin-left: 27px}
 .u-section-1 .u-text-3 {margin-top: -13px}
